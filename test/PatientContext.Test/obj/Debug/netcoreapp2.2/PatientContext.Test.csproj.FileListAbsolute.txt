@@ -1,0 +1,14 @@
+D:\TI\Project\repos\Repo.Patient\test\PatientContext.Test\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\TI\Project\repos\Repo.Patient\test\PatientContext.Test\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\TI\Project\repos\Repo.Patient\test\PatientContext.Test\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\TI\Project\repos\Repo.Patient\test\PatientContext.Test\bin\Debug\netcoreapp2.2\PatientContext.Test.deps.json
+D:\TI\Project\repos\Repo.Patient\test\PatientContext.Test\bin\Debug\netcoreapp2.2\PatientContext.Test.runtimeconfig.json
+D:\TI\Project\repos\Repo.Patient\test\PatientContext.Test\bin\Debug\netcoreapp2.2\PatientContext.Test.runtimeconfig.dev.json
+D:\TI\Project\repos\Repo.Patient\test\PatientContext.Test\bin\Debug\netcoreapp2.2\PatientContext.Test.dll
+D:\TI\Project\repos\Repo.Patient\test\PatientContext.Test\bin\Debug\netcoreapp2.2\PatientContext.Test.pdb
+D:\TI\Project\repos\Repo.Patient\test\PatientContext.Test\obj\Debug\netcoreapp2.2\PatientContext.Test.csprojAssemblyReference.cache
+D:\TI\Project\repos\Repo.Patient\test\PatientContext.Test\obj\Debug\netcoreapp2.2\PatientContext.Test.csproj.CoreCompileInputs.cache
+D:\TI\Project\repos\Repo.Patient\test\PatientContext.Test\obj\Debug\netcoreapp2.2\PatientContext.Test.AssemblyInfoInputs.cache
+D:\TI\Project\repos\Repo.Patient\test\PatientContext.Test\obj\Debug\netcoreapp2.2\PatientContext.Test.AssemblyInfo.cs
+D:\TI\Project\repos\Repo.Patient\test\PatientContext.Test\obj\Debug\netcoreapp2.2\PatientContext.Test.dll
+D:\TI\Project\repos\Repo.Patient\test\PatientContext.Test\obj\Debug\netcoreapp2.2\PatientContext.Test.pdb

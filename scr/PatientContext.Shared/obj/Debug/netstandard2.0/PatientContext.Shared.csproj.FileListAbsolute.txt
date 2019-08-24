@@ -1,0 +1,9 @@
+D:\TI\Project\repos\Repo.Patient\scr\PatientContext.Shared\bin\Debug\netstandard2.0\PatientContext.Shared.deps.json
+D:\TI\Project\repos\Repo.Patient\scr\PatientContext.Shared\bin\Debug\netstandard2.0\PatientContext.Shared.dll
+D:\TI\Project\repos\Repo.Patient\scr\PatientContext.Shared\bin\Debug\netstandard2.0\PatientContext.Shared.pdb
+D:\TI\Project\repos\Repo.Patient\scr\PatientContext.Shared\obj\Debug\netstandard2.0\PatientContext.Shared.csprojAssemblyReference.cache
+D:\TI\Project\repos\Repo.Patient\scr\PatientContext.Shared\obj\Debug\netstandard2.0\PatientContext.Shared.csproj.CoreCompileInputs.cache
+D:\TI\Project\repos\Repo.Patient\scr\PatientContext.Shared\obj\Debug\netstandard2.0\PatientContext.Shared.AssemblyInfoInputs.cache
+D:\TI\Project\repos\Repo.Patient\scr\PatientContext.Shared\obj\Debug\netstandard2.0\PatientContext.Shared.AssemblyInfo.cs
+D:\TI\Project\repos\Repo.Patient\scr\PatientContext.Shared\obj\Debug\netstandard2.0\PatientContext.Shared.dll
+D:\TI\Project\repos\Repo.Patient\scr\PatientContext.Shared\obj\Debug\netstandard2.0\PatientContext.Shared.pdb
