@@ -1,0 +1,9 @@
+D:\TI\Project\repos\Repo.Patient\scr\PatientContext.Domain\bin\Debug\netcoreapp2.2\PatientContext.Domain.deps.json
+D:\TI\Project\repos\Repo.Patient\scr\PatientContext.Domain\bin\Debug\netcoreapp2.2\PatientContext.Domain.dll
+D:\TI\Project\repos\Repo.Patient\scr\PatientContext.Domain\bin\Debug\netcoreapp2.2\PatientContext.Domain.pdb
+D:\TI\Project\repos\Repo.Patient\scr\PatientContext.Domain\obj\Debug\netcoreapp2.2\PatientContext.Domain.csprojAssemblyReference.cache
+D:\TI\Project\repos\Repo.Patient\scr\PatientContext.Domain\obj\Debug\netcoreapp2.2\PatientContext.Domain.csproj.CoreCompileInputs.cache
+D:\TI\Project\repos\Repo.Patient\scr\PatientContext.Domain\obj\Debug\netcoreapp2.2\PatientContext.Domain.AssemblyInfoInputs.cache
+D:\TI\Project\repos\Repo.Patient\scr\PatientContext.Domain\obj\Debug\netcoreapp2.2\PatientContext.Domain.AssemblyInfo.cs
+D:\TI\Project\repos\Repo.Patient\scr\PatientContext.Domain\obj\Debug\netcoreapp2.2\PatientContext.Domain.dll
+D:\TI\Project\repos\Repo.Patient\scr\PatientContext.Domain\obj\Debug\netcoreapp2.2\PatientContext.Domain.pdb

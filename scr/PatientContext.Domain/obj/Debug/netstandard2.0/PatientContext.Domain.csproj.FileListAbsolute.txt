@@ -1,9 +1,0 @@
-D:\TI\Project\repos\Repo.Patient\scr\PatientContext.Domain\bin\Debug\netstandard2.0\PatientContext.Domain.deps.json
-D:\TI\Project\repos\Repo.Patient\scr\PatientContext.Domain\bin\Debug\netstandard2.0\PatientContext.Domain.dll
-D:\TI\Project\repos\Repo.Patient\scr\PatientContext.Domain\bin\Debug\netstandard2.0\PatientContext.Domain.pdb
-D:\TI\Project\repos\Repo.Patient\scr\PatientContext.Domain\obj\Debug\netstandard2.0\PatientContext.Domain.csprojAssemblyReference.cache
-D:\TI\Project\repos\Repo.Patient\scr\PatientContext.Domain\obj\Debug\netstandard2.0\PatientContext.Domain.csproj.CoreCompileInputs.cache
-D:\TI\Project\repos\Repo.Patient\scr\PatientContext.Domain\obj\Debug\netstandard2.0\PatientContext.Domain.AssemblyInfoInputs.cache
-D:\TI\Project\repos\Repo.Patient\scr\PatientContext.Domain\obj\Debug\netstandard2.0\PatientContext.Domain.AssemblyInfo.cs
-D:\TI\Project\repos\Repo.Patient\scr\PatientContext.Domain\obj\Debug\netstandard2.0\PatientContext.Domain.dll
-D:\TI\Project\repos\Repo.Patient\scr\PatientContext.Domain\obj\Debug\netstandard2.0\PatientContext.Domain.pdb
